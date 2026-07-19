@@ -1,0 +1,6 @@
+__pycache__/
+.streamlit/secrets.toml
+.venv/
+venv/
+*.pyc
+portfolio_model_data.csv
